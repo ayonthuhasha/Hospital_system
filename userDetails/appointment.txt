@@ -1,0 +1,5 @@
+sachin,Prasadi Jayathilake,1/6/2021,1:0 AM,chest pain,Pending,1111
+renuka,Sampath Randeney,2/6/2021,1:0 AM,hear attack,Approved,1112
+hashini,Sampath Randeney,5/6/2021,1:0 AM,fever,Approved,1113
+kasuni,Namal Perera,28/6/2021,1:0 AM,headache,Pending,1114
+

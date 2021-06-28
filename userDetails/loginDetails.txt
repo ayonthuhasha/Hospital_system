@@ -1,0 +1,4 @@
+sachin,1111,PAT,passwordsample123
+renuka,1112,MED,passwordsample124
+hashini,1113,MED,passwordsample125
+kasuni,1114,MED,passwordsample126
